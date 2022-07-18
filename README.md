@@ -18,6 +18,7 @@ MERN STACK (MongoDB | ExpressJS | React | NodeJS)
 DJANGO (PYTHON)
 Laravel (PHP)
 WordPress
+HTML | CSS | JS(FRONT END)
 
 DATABASE:-
 MySQL (SQL)
